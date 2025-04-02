@@ -23,7 +23,7 @@ const students = [
 // Risultato: { id: 2, name: 'Mario Banfi', age: 34, class: '4A' }
 
 const luigi = students.find ((element)=>{
-      return element.id === 3
+      return element.id === 2
   });
 
   console.log(luigi)
